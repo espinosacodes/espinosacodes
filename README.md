@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning python ...
 - 💞️ I’m looking to collaborate on linux projects
 - 📫 How to reach me santiagoespinosagiraldo1@gmail.com
+
+  xd
   
 
 <!---
