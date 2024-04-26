@@ -5,6 +5,11 @@
 - 📫 How to reach me santiagoespinosagiraldo1@gmail.com
 
   xd
+
+  https://www.linkedin.com/in/santiago-espinosa-a80a43287/
+  https://codeforces.com/profile/taxevader007
+  https://leetcode.com/u/santiagoespinosagiraldo1/
+  https://www.instagram.com/taxevader007/
   
 
 <!---
