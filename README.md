@@ -1,6 +1,11 @@
 <h1 align="center">Hi, I'm Santiago Espinosa</h1>
 <h3 align="center">Software and Systems Engineering at ICESI University</h3>
-<p align="center">I am fascinated by innovation and continuous progress in IT. Since childhood I carry the passion which was born in an approach to cybersecurity, and currently i am in a deep development in different fields as a student</p>
+<p align="center">
+
+I'm fascinated by the intersection of algorithmic trading and competitive programming. In the world of algorithmic trading, I'm drawn to the challenge of developing strategies that analyze market data and execute trades autonomously. I enjoy the blend of financial knowledge, mathematical modeling, and coding required to bring these algorithms to life. My approach emphasizes on technical analysis, machine learning and fundamentals movements on the market.
+
+Outside of trading, I channel my competitive spirit into the world of programming competitions. Here, I thrive on the problem-solving aspect and the constant push to improve my coding skills. The thrill of tackling complex algorithms and emerging victorious keeps me motivated to learn and grow as a programmer. These two passions, algorithmic trading and competitive programming, complement each other by honing my analytical thinking, problem-solving abilities, and coding proficiency
+</p>
 <p align="center"> 
 </p>
 
