@@ -42,10 +42,28 @@ Outside of trading, I channel my competitive spirit into the world of programmin
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,r" />
   </a>
+  
   <a href="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D">
-    <img src="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D" alt="Backend Image" />
+    <img src="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D" alt="Backend Image" width="4.5%" height="4.5%" />
   </a>
+
+  <a href="https://files.oaiusercontent.com/file-3aT3aePqnKzWe5lnokiUeEWG?se=2123-10-22T19%3A38%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmql5.png&sig=fKaqC0SFZiS/fNhiGQ3hnyMyuyVMOuWDHwnDN4vGdjM%3D">
+    <img src="https://files.oaiusercontent.com/file-3aT3aePqnKzWe5lnokiUeEWG?se=2123-10-22T19%3A38%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmql5.png&sig=fKaqC0SFZiS/fNhiGQ3hnyMyuyVMOuWDHwnDN4vGdjM%3D" alt="Backend Image" width="4.5%" height="4.5%" />
+  </a>
+
+  <a href="https://files.oaiusercontent.com/file-i0IbfRAterpi4G5jFuEyS10b?se=2123-10-17T19%3A17%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E1%2584%2591%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25AB.jpeg&sig=CRACE9pC8fxaDjbpCI0xEjQkXNb5HVOCpFJQXaxDlCk%3D">
+    <img src="https://files.oaiusercontent.com/file-i0IbfRAterpi4G5jFuEyS10b?se=2123-10-17T19%3A17%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E1%2584%2591%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25AB.jpeg&sig=CRACE9pC8fxaDjbpCI0xEjQkXNb5HVOCpFJQXaxDlCk%3D" alt="Backend Image" width="4.5%" height="4.5%" />
+  </a>
+
+  <a href="https://pbs.twimg.com/profile_images/1628710699970007040/t7KT0wDg_400x400.jpg">
+    <img src="https://pbs.twimg.com/profile_images/1628710699970007040/t7KT0wDg_400x400.jpg" alt="Backend Image" width="4.5%" height="4.5%" />
+  </a>
+
+  
 </p>
+
+
+
 
 - Frontend
 <p align="left">
