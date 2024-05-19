@@ -23,6 +23,8 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 
 - ⚡ I like competitive programming
 
+- 📈 I'm on a algorithmic trading proyect
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,8 +42,10 @@ Outside of trading, I channel my competitive spirit into the world of programmin
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,r" />
   </a>
+  <a href="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D">
+    <img src="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D" alt="Backend Image" />
+  </a>
 </p>
-
 
 - Frontend
 <p align="left">
@@ -66,7 +70,7 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux,neovim,arch,vim,ubuntu,debian" />
   </a>
 </p>
 
