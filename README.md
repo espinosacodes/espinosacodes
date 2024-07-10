@@ -11,7 +11,7 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6djE0a3NjaDdnbGRpbjM4NnhzNm5ud2EzYmZpeXdtcnAxdWU2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Diym3aZO1dHzO/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1347.gif">
 
 <br><br>
 
