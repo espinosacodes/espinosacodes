@@ -75,7 +75,7 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux,neovim,arch,vim,ubuntu,debian,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,neovim,arch,vim,ubuntu,debian,docker" />
   </a>
 </p>
 
