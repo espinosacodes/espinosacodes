@@ -58,7 +58,7 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,markdown" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,markdown,typescript" />
   </a>
 </p>
 
