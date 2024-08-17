@@ -81,6 +81,22 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 
 <br/>
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=espinosacodes&label=Profile%20views&color=0e75b6&style=default" alt="espinosacodes" /> </p>
+
+<p align="center">
+  <a href="https://github.com/espinosacodes">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espinosacodes&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  </a>
+  <a>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&langs_count=8&theme=default"/>
+  </a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=default&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
+    </a>
+</p>
+
+
 <!---
 taxevader007/taxevader007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
