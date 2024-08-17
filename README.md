@@ -64,7 +64,7 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 
 - Database
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=SQL,DBeaver,MySQL" />
+    <img src="https://skillicons.dev/icons?i=sql,mysql" />
 </p>
 
 - Cloud Servers
