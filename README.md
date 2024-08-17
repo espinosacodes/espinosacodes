@@ -64,18 +64,22 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 
 - Database
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql" />
+    </a>
 </p>
 
 - Cloud Servers
 <p align="left">
-    Learning...
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws" />
+    </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,neovim,arch,vim,ubuntu,debian,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,neovim,arch,vim,ubuntu,debian,docker,kubernetes" />
   </a>
 </p>
 
