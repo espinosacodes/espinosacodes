@@ -29,7 +29,7 @@ Outside of trading, I channel my competitive spirit into the world of programmin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-espinosa-a80a43287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Santiago Espinosa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/taxevader007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taxevader007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/taxevader007/](https://www.instagram.com/espinosacodes1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taxevader007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/taxevader007/"  target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="taxevader007" height="30" width="40" /></a>
 </p>
 <br>
