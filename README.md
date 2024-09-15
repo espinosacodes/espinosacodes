@@ -2,9 +2,9 @@
 <h3 align="center">Software and Systems Engineering at ICESI University</h3>
 <p align="center">
  
-I'm fascinated by the intersection of algorithmic trading and competitive programming. In the world of algorithmic trading, I'm drawn to the challenge of developing strategies that analyze market data and execute trades autonomously. I enjoy the blend of financial knowledge, mathematical modeling, and coding required to bring these algorithms to life. My approach emphasizes technical analysis, machine learning, and fundamentals movements on the market.
+I'm fascinated by the intersection of algorithmic trading and competitive programming. In algorithmic trading, I thrive on the challenge of developing autonomous strategies that analyze market data and execute trades with precision. My work involves technical analysis, machine learning, and understanding fundamental market movements to create high-performance algorithms.
 
-Outside of trading, I channel my competitive spirit into the world of programming competitions. Here, I thrive on the problem-solving aspect and the constant push to improve my coding skills. The thrill of tackling complex algorithms and emerging victorious keeps me motivated to learn and grow as a programmer. These two passions, algorithmic trading and competitive programming, complement each other by honing my analytical thinking, problem-solving abilities, and coding proficiency.
+Outside of trading, I bring my competitive edge to the world of programming competitions. The problem-solving challenges and continuous improvement keep me motivated to sharpen my coding skills. Together, these pursuits enhance my analytical thinking, problem-solving, and programming proficiency.
 </p>
 <p align="center"> 
 </p>
