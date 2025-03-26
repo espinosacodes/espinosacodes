@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Santiago Espinosa</h1>
-<h3 align="center">Software and Systems Engineering at ICESI University</h3>
+<h3 align="center">Data Scientist | Machine Learning | Mathematics & Informatics Enthusiast</h3>
 <p align="center">
  
-I'm fascinated by the intersection of algorithmic trading and competitive programming. In algorithmic trading, I thrive on the challenge of developing autonomous strategies that analyze market data and execute trades with precision. My work involves technical analysis, machine learning, and understanding fundamental market movements to create high-performance algorithms.
+I'm passionate about leveraging data science and machine learning to solve complex problems. My expertise lies in transforming raw data into meaningful insights, developing predictive models, and applying advanced mathematical techniques to drive innovative solutions.
 
-Outside of trading, I bring my competitive edge to the world of programming competitions. The problem-solving challenges and continuous improvement keep me motivated to sharpen my coding skills. Together, these pursuits enhance my analytical thinking, problem-solving, and programming proficiency.
+My work combines technical prowess in data analysis, statistical modeling, and machine learning with a deep enthusiasm for understanding the mathematical foundations that power intelligent systems.
 </p>
 <p align="center"> 
 </p>
@@ -15,71 +15,73 @@ Outside of trading, I bring my competitive edge to the world of programming comp
 
 <br><br>
 
-- 🔭 I’m currently a software engineering student at **ICESI University**
+- 🔭 Currently pursuing **Data Science and Machine Learning**
 
-- 🌱 I’m currently learning Data analysis and modeling about the commodities futures on python 
+- 🌱 Specializing in data analysis, predictive modeling, and algorithmic trading
 
-- 💬 I'm constantly learning about everything
+- 💬 Continuously learning and exploring cutting-edge AI and machine learning technologies
 
-- ⚡ I like competitive programming
+- 📊 Passionate about applying mathematical principles to data science
 
-- 📈 I'm on an algorithmic trading project
+- 📈 Developing advanced machine learning models for financial analysis
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/santiago-espinosa-a80a43287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Santiago Espinosa" height="30" width="40" /></a>
-<a href="https://www.instagram.com/taxevader007/](https://www.instagram.com/espinosacodes1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taxevader007" height="30" width="40" /></a>
+<a href="https://www.instagram.com/espinosacodes1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="espinosacodes1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/taxevader007/"  target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="taxevader007" height="30" width="40" /></a>
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Data Science & Machine Learning Tools:</h3>
 
-- Backend
+- Data Science & ML
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,r,python,nodejs,express,docker" />
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,numpy,pandas" />
   </a>
-  <a href="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D">
-    <img src="https://files.oaiusercontent.com/file-aScW0GWY0thZMixY2Ol6ptH9?se=2123-11-18T09%3A36%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmql4_smaller.png&sig=hAVX5nHPQwQMUIJms1996emWjOngBm1eEiZA7vC6dys%3D" alt="Backend Image" width="4.5%" height="4.5%" />
+</p>
+
+- Programming & Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,docker" />
   </a>
-  <a href="https://files.oaiusercontent.com/file-3aT3aePqnKzWe5lnokiUeEWG?se=2123-10-22T19%3A38%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmql5.png&sig=fKaqC0SFZiS/fNhiGQ3hnyMyuyVMOuWDHwnDN4vGdjM%3D">
-    <img src="https://files.oaiusercontent.com/file-3aT3aePqnKzWe5lnokiUeEWG?se=2123-10-22T19%3A38%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmql5.png&sig=fKaqC0SFZiS/fNhiGQ3hnyMyuyVMOuWDHwnDN4vGdjM%3D" alt="Backend Image" width="4.5%" height="4.5%" />
-  </a>
-  <a href="https://files.oaiusercontent.com/file-i0IbfRAterpi4G5jFuEyS10b?se=2123-10-17T19%3A17%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E1%2584%2591%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25AB.jpeg&sig=CRACE9pC8fxaDjbpCI0xEjQkXNb5HVOCpFJQXaxDlCk%3D">
-    <img src="https://files.oaiusercontent.com/file-i0IbfRAterpi4G5jFuEyS10b?se=2123-10-17T19%3A17%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E1%2584%2591%25E1%2585%25A1%25E1%2584%258B%25E1%2585%25B5%25E1%2586%25AB.jpeg&sig=CRACE9pC8fxaDjbpCI0xEjQkXNb5HVOCpFJQXaxDlCk%3D" alt="Backend Image" width="4.5%" height="4.5%" />
-  </a>
-  <a href="https://pbs.twimg.com/profile_images/1628710699970007040/t7KT0wDg_400x400.jpg">
-    <img src="https://pbs.twimg.com/profile_images/1628710699970007040/t7KT0wDg_400x400.jpg" alt="Backend Image" width="4.5%" height="4.5%" />
+</p>
+
+- Data Visualization & Analysis
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab,r,python" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,markdown,typescript,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript" />
   </a>
 </p>
 
 - Database
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     </a>
 </p>
 
-- Cloud Servers
+- Cloud & Deployment
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=aws" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
     </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux,neovim,arch,vim,ubuntu,debian,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim,jupyter" />
   </a>
 </p>
 
@@ -99,9 +101,3 @@ Outside of trading, I bring my competitive edge to the world of programming comp
       <img align="center" width=90% src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=default&row=1&column=7&margin-h=15&margin-w=5&no-bg=true&no-frame=true" alt="TROPHY" />
     </a>
 </p>
-
-
-<!---
-taxevader007/taxevader007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
