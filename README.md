@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Santiago Espinosa</h1>
-<h3 align="center">Data Scientist | Machine Learning | Mathematics & Informatics Enthusiast</h3>
+<h3 align="center"> Software Systems Engineer | Data Scientist | Machine Learning | Mathematics & Informatics Enthusiast</h3>
 <p align="center">
  
 I'm passionate about leveraging data science and machine learning to solve complex problems. My expertise lies in transforming raw data into meaningful insights, developing predictive models, and applying advanced mathematical techniques to drive innovative solutions.
