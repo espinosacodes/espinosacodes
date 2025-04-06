@@ -93,6 +93,6 @@
   
   ![Coding GIF](https://media.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif)
   
-  **"First, solve the problem. Then, write the code."** - John Johnson
+  **"Don't hurry your code. Make sure it works well and is well designed"** - Linus Torvalds 
   
 </div>
