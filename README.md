@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D7FF&center=true&width=700&lines=🚀+Software+Systems+Engineer;💻+Full-Stack+Developer;📈+Data+Science+Enthusiast" alt="Subheader" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D7FF&center=true&width=700&lines=🚀+Software+Systems+Engineer;💻+Developer;📈+Data+Science+Enthusiast" alt="Subheader" />
 </p>
 
 <div align="center">
@@ -19,8 +19,16 @@
 ### 🚀 About Me
 
 <p align="center">
-  <em>✨ Data-Driven Developer | 🤖 ML Engineer | 📊 Visualization Enthusiast</em>
+  <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science</em>
 </p>
+
+<p align="center">
+  <em>Passionate about leveraging data science and machine learning to solve complex problems.<br>
+  My expertise lies in transforming raw data into meaningful insights, developing predictive models,<br> 
+  applying advanced mathematical techniques to drive innovative solutions,<br>
+  and developing full-stack applications to deploy scalable AI solutions.</em>
+</p>
+
 
 - 🔭 Currently developing **AI-powered trading systems**
 - 🌱 Mastering **Deep Learning & Neural Networks**
