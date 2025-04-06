@@ -22,6 +22,8 @@
   <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science</em>
 </p>
 
+<br>
+
 <p align="center">
   <em>Passionate about leveraging data science and machine learning to solve complex problems.<br>
   My expertise lies in transforming raw data into meaningful insights, developing predictive models,<br> 
@@ -29,6 +31,7 @@
   and developing full-stack applications to deploy scalable AI solutions.</em>
 </p>
 
+<br>
 
 - 🔭 Currently developing **AI-powered trading systems**
 - 🌱 Mastering **Deep Learning & Neural Networks**
