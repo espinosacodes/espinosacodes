@@ -48,33 +48,30 @@
 #### 🛠️ Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
-<div align="center">
-  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=espinosacodes&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/> 
+</p>
+
+<p align="center">
   <a href="https://github.com/espinosacodes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espinosacodes&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=nightowl&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espinosacodes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=transparent&hide_border=true"/>
   </a>
-  
-</div>
+</p>
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=espinosacodes&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-</div>
-
----
-
-### 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=onedark&row=1&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=flat&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -85,9 +82,8 @@
 | [Algorithmic Trading Agency](https://github.com/espinosacodes/deltanexusweb) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS|
 | [Algorithmic Trading](https://github.com/espinosacodes/mql4Scripts) | Algorithmic trading system | MQL4 |
 
-<!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
-
 ---
+
 
 <div align="center">
   
