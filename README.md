@@ -8,7 +8,8 @@
 <p align="center">
   <em>Passionate about leveraging data science and machine learning to solve complex problems.<br>
   My expertise lies in transforming raw data into meaningful insights, developing predictive models,<br> 
-  and applying advanced mathematical techniques to drive innovative solutions.</em>
+  applying advanced mathematical techniques to drive innovative solutions,<br>
+  and developing fullstack applications to deploy scalable AI solutions.</em>
 </p>
 
 ---
@@ -37,9 +38,10 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,java,cpp,tensorflow,pytorch,sklearn,numpy,pandas,matlab,html,css,javascript,react,typescript,nodejs,mysql,postgresql,aws,docker,kubernetes,git,github,vscode,linux,vim,jupyter&perline=11" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=python,r,java,cpp,tensorflow,pytorch,sklearn,html,css,javascript,react,typescript,nodejs,mysql,postgresql,aws,docker,kubernetes,git,github,vscode,linux,vim&perline=12" /> 
+    </a>
 </p>
+
 
 ---
 
