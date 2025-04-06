@@ -82,6 +82,8 @@
 | [Algorithmic Trading Agency](https://github.com/espinosacodes/deltanexusweb) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS|
 | [Algorithmic Trading](https://github.com/espinosacodes/mql4Scripts) | Algorithmic trading system | MQL4 |
 
+<!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
+
 ---
 
 
