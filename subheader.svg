@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&display=swap');
+    text { font-family: 'Fira Code', monospace; font-size: 24px; fill: #00D7FF; }
+  </style>
+  <text x="50%" y="30%" text-anchor="middle">🚀 Software Systems Engineer</text>
+  <text x="50%" y="55%" text-anchor="middle">💻 Developer</text>
+  <text x="50%" y="80%" text-anchor="middle">📈 Data Science Enthusiast</text>
+</svg>
