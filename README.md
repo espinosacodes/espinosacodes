@@ -5,9 +5,6 @@
   <img src="./subheader.svg" alt="Subheader" width="700"/>
 </p>
 
-<p align="center">
-  <img src="./test.svg" alt="Test SVG" />
-</p>
 
 <div align="center">
   
