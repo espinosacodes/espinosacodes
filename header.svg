@@ -1,9 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="50" viewBox="0 0 700 50">
-  <text x="50%" y="50%"
-        font-family="'Fira Code', monospace"
-        font-weight="600"
-        font-size="30px"
-        fill="#7F3BF3"
-        text-anchor="middle"
-        dominant-baseline="middle">&#x1F44B; Hi, I'm Santiago Espinosa</text>
+  <style>
+    /* Define the style for the text */
+    .typing-text {
+      font-family: 'Fira Code', monospace;
+      font-weight: 600;
+      font-size: 30px;
+      fill: #7F3BF3; /* Text color */
+      text-anchor: middle; /* Center text horizontally relative to its x position */
+      dominant-baseline: middle; /* Center text vertically relative to its y position */
+    }
+  </style>
+
+  <defs>
+    <clipPath id="clipPathHello">
+      <rect id="clipRectHello" x="110" y="10" width="0" height="30"/>
+    </clipPath>
+  </defs>
+
+  <text class="typing-text" x="50%" y="50%" clip-path="url(#clipPathHello)">&#x1F44B; Hi, I'm Santiago Espinosa </text>
+
+  <animate
+    href="#clipRectHello"
+    attributeName="width"
+    from="0"
+    to="480"
+    dur="2s"
+    fill="freeze"
+    begin="0s"
+  />
+
 </svg>
