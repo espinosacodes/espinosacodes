@@ -23,9 +23,9 @@
     </clipPath>
   </defs>
 
-  <text id="text1" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath1)">💻 Software Systems Engineer</text>
-  <text id="text2" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath2)">💡 Developer</text>
-  <text id="text3" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath3)">📊 Data Science Enthusiast</text>
+  <text id="text1" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath1)">‎ 💻 Software Systems Engineer</text>
+  <text id="text2" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath2)">‎ 💡 Developer</text>
+  <text id="text3" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath3)">‎ 📊 Data Science Enthusiast</text>
 
   <set href="#clipRect1" attributeName="width" to="0" begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze"/>
   <set href="#text1" attributeName="opacity" to="1" begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze"/>
