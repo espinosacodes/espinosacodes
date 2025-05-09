@@ -22,8 +22,8 @@
   <animate
     href="#clipRectHello"
     attributeName="width"
-    from="0"
-    to="480"
+    from="-40"
+    to="520"
     dur="2s"
     fill="freeze"
     begin="0s"
