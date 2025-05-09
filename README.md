@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./header.svg" alt="Header" width="700"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7F3BF3&center=true&width=700&lines=👋+Hi,+I'm+Santiago+Espinosa" alt="Header" />
 </p>
 <p align="center">
-  <img src="./subheader.svg" alt="Subheader" width="700"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D7FF&center=true&width=700&lines=🚀+Software+Systems+Engineer;💻+Developer;📈+Data+Science+Enthusiast" alt="Subheader" />
 </p>
 
 <div align="center">
