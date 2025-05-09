@@ -29,21 +29,21 @@
 
   <set href="#clipRect1" attributeName="width" to="0" begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze"/>
   <set href="#text1" attributeName="opacity" to="1" begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze"/>
-  <animate href="#clipRect1" attributeName="width" from="0" to="390" dur="1.5s"
+  <animate href="#clipRect1" attributeName="width" from="0" to="440" dur="1.5s"
            begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze" id="anim_text1_typeIn"/>
   <animate href="#text1" attributeName="opacity" from="1" to="0" dur="0.5s"
            begin="anim_text1_typeIn.end + 2.5s" fill="freeze" id="anim_text1_fadeOut"/>
 
   <set href="#clipRect2" attributeName="width" to="0" begin="anim_text1_fadeOut.end + 0.3s" fill="freeze"/>
   <set href="#text2" attributeName="opacity" to="1" begin="anim_text1_fadeOut.end + 0.3s" fill="freeze"/>
-  <animate href="#clipRect2" attributeName="width" from="0" to="160" dur="1.5s"
+  <animate href="#clipRect2" attributeName="width" from="0" to="200" dur="1.5s"
            begin="anim_text1_fadeOut.end + 0.3s" fill="freeze" id="anim_text2_typeIn"/>
   <animate href="#text2" attributeName="opacity" from="1" to="0" dur="0.5s"
            begin="anim_text2_typeIn.end + 2.5s" fill="freeze" id="anim_text2_fadeOut"/>
 
   <set href="#clipRect3" attributeName="width" to="0" begin="anim_text2_fadeOut.end + 0.3s" fill="freeze"/>
   <set href="#text3" attributeName="opacity" to="1" begin="anim_text2_fadeOut.end + 0.3s" fill="freeze"/>
-  <animate href="#clipRect3" attributeName="width" from="0" to="346" dur="1.5s"
+  <animate href="#clipRect3" attributeName="width" from="0" to="386" dur="1.5s"
            begin="anim_text2_fadeOut.end + 0.3s" fill="freeze" id="anim_text3_typeIn"/>
   <animate href="#text3" attributeName="opacity" from="1" to="0" dur="0.5s"
            begin="anim_text3_typeIn.end + 2.5s" fill="freeze" id="anim_text3_fadeOut"/>
