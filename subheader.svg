@@ -1,43 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110">
   <style>
-    .text-line {
+    .animated-text {
       font-family: 'Fira Code', monospace;
       font-weight: 600;
       font-size: 24px;
       fill: #00D7FF;
       text-anchor: middle;
-      opacity: 0; /* Inicialmente invisible */
+      /* dominant-baseline: middle; -- Opcional para centrado vertical más preciso si y="50%" */
+      opacity: 0; /* Inicialmente invisibles */
     }
   </style>
 
-  <text x="50%" y="30%" class="text-line">
-    💻 Software Systems Engineer
-    <animate
-      attributeName="opacity"
-      from="0"
-      to="1"
-      dur="0.5s"
-      begin="0s"
-      fill="freeze" />
-  </text>
+  <defs>
+    <clipPath id="clipPath1">
+      <rect id="clipRect1" x="155" y="41" width="0" height="29"/>
+    </clipPath>
+    <clipPath id="clipPath2">
+      <rect id="clipRect2" x="270" y="41" width="0" height="29"/>
+    </clipPath>
+    <clipPath id="clipPath3">
+      <rect id="clipRect3" x="177" y="41" width="0" height="29"/>
+    </clipPath>
+  </defs>
 
-  <text x="50%" y="55%" class="text-line">
-    💡 Developer
-    <animate
-      attributeName="opacity"
-      from="0"
-      to="1"
-      dur="0.5s"
-      begin="1s"  fill="freeze" />
-  </text>
+  <text id="text1" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath1)">💻 Software Systems Engineer</text>
+  <text id="text2" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath2)">💡 Developer</text>
+  <text id="text3" class="animated-text" x="50%" y="55%" clip-path="url(#clipPath3)">📊 Data Science Enthusiast</text>
 
-  <text x="50%" y="80%" class="text-line">
-    📊 Data Science Enthusiast
-    <animate
-      attributeName="opacity"
-      from="0"
-      to="1"
-      dur="0.5s"
-      begin="2s"  fill="freeze" />
-  </text>
+  <set href="#clipRect1" attributeName="width" to="0" begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze"/>
+  <set href="#text1" attributeName="opacity" to="1" begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze"/>
+  <animate href="#clipRect1" attributeName="width" from="0" to="390" dur="1.5s"
+           begin="0s; anim_text3_fadeOut.end + 0.3s" fill="freeze" id="anim_text1_typeIn"/>
+  <animate href="#text1" attributeName="opacity" from="1" to="0" dur="0.5s"
+           begin="anim_text1_typeIn.end + 2.5s" fill="freeze" id="anim_text1_fadeOut"/>
+
+  <set href="#clipRect2" attributeName="width" to="0" begin="anim_text1_fadeOut.end + 0.3s" fill="freeze"/>
+  <set href="#text2" attributeName="opacity" to="1" begin="anim_text1_fadeOut.end + 0.3s" fill="freeze"/>
+  <animate href="#clipRect2" attributeName="width" from="0" to="160" dur="1.5s"
+           begin="anim_text1_fadeOut.end + 0.3s" fill="freeze" id="anim_text2_typeIn"/>
+  <animate href="#text2" attributeName="opacity" from="1" to="0" dur="0.5s"
+           begin="anim_text2_typeIn.end + 2.5s" fill="freeze" id="anim_text2_fadeOut"/>
+
+  <set href="#clipRect3" attributeName="width" to="0" begin="anim_text2_fadeOut.end + 0.3s" fill="freeze"/>
+  <set href="#text3" attributeName="opacity" to="1" begin="anim_text2_fadeOut.end + 0.3s" fill="freeze"/>
+  <animate href="#clipRect3" attributeName="width" from="0" to="346" dur="1.5s"
+           begin="anim_text2_fadeOut.end + 0.3s" fill="freeze" id="anim_text3_typeIn"/>
+  <animate href="#text3" attributeName="opacity" from="1" to="0" dur="0.5s"
+           begin="anim_text3_typeIn.end + 2.5s" fill="freeze" id="anim_text3_fadeOut"/>
+
 </svg>
