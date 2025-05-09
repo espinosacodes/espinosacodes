@@ -1,17 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="700" height="110" viewBox="0 0 700 110">
-  <text x="50%" y="30%"
-        font-family="'Fira Code', monospace"
-        font-weight="600"
-        font-size="24px"
-        fill="#00D7FF"
-        text-anchor="middle">Software Systems Engineer</text> <text x="50%" y="55%"
-        font-family="'Fira Code', monospace"
-        font-weight="600"
-        font-size="24px"
-        fill="#00D7FF"
-        text-anchor="middle">Developer</text> <text x="50%" y="80%"
-        font-family="'Fira Code', monospace"
-        font-weight="600"
-        font-size="24px"
-        fill="#00D7FF"
-        text-anchor="middle">Data Science Enthusiast</text> </svg>
+  <style>
+    .text-line {
+      font-family: 'Fira Code', monospace;
+      font-weight: 600;
+      font-size: 24px;
+      fill: #00D7FF;
+      text-anchor: middle;
+      opacity: 0; /* Inicialmente invisible */
+    }
+  </style>
+
+  <text x="50%" y="30%" class="text-line">
+    💻 Software Systems Engineer
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.5s"
+      begin="0s"
+      fill="freeze" />
+  </text>
+
+  <text x="50%" y="55%" class="text-line">
+    💡 Developer
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.5s"
+      begin="1s"  fill="freeze" />
+  </text>
+
+  <text x="50%" y="80%" class="text-line">
+    📊 Data Science Enthusiast
+    <animate
+      attributeName="opacity"
+      from="0"
+      to="1"
+      dur="0.5s"
+      begin="2s"  fill="freeze" />
+  </text>
+</svg>
