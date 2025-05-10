@@ -98,19 +98,19 @@
 ### 📈 GitHub Analytics
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=espinosacodes&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/> 
+  <img src="https://komarev.com/ghpvc/?username=espinosacodes&label=Profile%20Views&color=5cd6d6&style=flat-square" alt="Profile views"/> 
 </p>
 
 <p align="center">
   <a href="https://github.com/espinosacodes">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espinosacodes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=transparent&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espinosacodes&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=dark&bg_color=0d1117&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=flat&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
