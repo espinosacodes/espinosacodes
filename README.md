@@ -104,8 +104,7 @@
 <p align="center">
   <a href="https://github.com/espinosacodes">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espinosacodes&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=dark&bg_color=0d1117&hide_border=true"/>
-  </a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&hide_progress=true&langs_count=100" alt="All Languages"/>  </a>
 </p>
 
 <p align="center">
