@@ -14,7 +14,6 @@
   [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/taxevader007/)
   
 </div>
-
 ---
 
 ### 🚀 About Me
