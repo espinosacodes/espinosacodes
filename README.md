@@ -103,12 +103,12 @@
 <p align="center">
   <a href="https://github.com/espinosacodes">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=espinosacodes&show_icons=true&theme=dark&bg_color=0d1117&include_all_commits=true&count_private=true&hide_border=true"/>&nbsp;&nbsp;
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&hide_progress=true&langs_count=100" alt="All Languages"/>  </a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espinosacodes&layout=compact&theme=dark&hide_border=true&hide_progress=true&langs_count=100&cache_seconds=0" alt="All Languages"/> </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=onedark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=onedark&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
