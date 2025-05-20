@@ -53,7 +53,7 @@
 #### 💻 Programming & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,scala,nodejs,docker" />
   </a>
 </p>
 
