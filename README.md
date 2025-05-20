@@ -81,7 +81,7 @@
 #### ☁️ Cloud & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes" />
   </a>
 </p>
 
