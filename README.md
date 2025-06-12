@@ -112,6 +112,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=espinosacodes&theme=2077" alt="Yearly Stats"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=onedark&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
