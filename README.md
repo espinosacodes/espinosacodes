@@ -54,7 +54,7 @@
 #### 💻 Programming & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,python,scala,nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,python,scala,nodejs,docker,rust" />
   </a>
 </p>
 
@@ -86,14 +86,20 @@
   </a>
 </p>
 
+#### 🤖 Scripting & Shell
+<p align="left"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=bash,powershell,python,githubactions" /> 
+  </a> 
+</p>
+
 #### 🧰 Development Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim,jupyter" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim,arch,ubuntu,debian" />
   </a>
 </p>
 
----
 
 ### 📈 GitHub Analytics
 
