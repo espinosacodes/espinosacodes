@@ -108,6 +108,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espinosacodes&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=9D4EDD&point=FFFFFF" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=espinosacodes&theme=onedark&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
