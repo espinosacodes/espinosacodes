@@ -131,10 +131,11 @@
 
 ### 💡 Recent Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Algorithmic Trading Agency](https://github.com/espinosacodes/deltanexusweb) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS|
-| [Algorithmic Trading](https://github.com/espinosacodes/mql4Scripts) | Algorithmic trading system | MQL4 |
+| Project | Description | Tech Stack | Deployed App |
+|---------|-------------|------------|--------------|
+| [Algorithmic Trading Agency](https://github.com/espinosacodes/deltanexusweb) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS | [Live Demo](https://deltanexus.netlify.app)|
+| [Algorithmic Trading](https://github.com/espinosacodes/mql4Scripts) | Algorithmic trading system | MQL4 | – |
+| [CipherChat](https://github.com/espinosacodes/CipherChat) | Secure communication system with RSA + AES encryption, CLI + Web app | Python, Django, HTML, CSS | [Live Demo](https://cipherchat-qzui.onrender.com) |
 
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
 
