@@ -19,7 +19,7 @@
 ### 🚀 About Me
 
 <p align="center">
-  <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science | 🖥️ Fullstack Engineer </em>
+  <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science</em>
 </p>
 
 <br>
