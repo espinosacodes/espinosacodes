@@ -6,7 +6,6 @@
   <img src="./subheader.svg" alt="Subheader" width="1000" height="200"/>
 </p>
 
-
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-espinosa-giraldo/)
@@ -19,7 +18,7 @@
 ### 🚀 About Me
 
 <p align="center">
-  <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science | 🖥️ Fullstack Engineer </em>
+  <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science | 🖥️ Fullstack Engineer | ☁️ Cloud Specialist</em>
 </p>
 
 <br>
@@ -41,6 +40,34 @@
 
 ---
 
+### 🏆 Recent Certifications & Achievements
+
+#### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stabilityai&logoColor=white" alt="Stable Diffusion" />
+</p>
+
+#### ☁️ Cloud & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+</p>
+
+#### 🛠️ Professional Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrum_Professional-009639?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum Professional" />
+  <img src="https://img.shields.io/badge/Linux_Professional-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Professional" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 🔬 Data Science & ML
@@ -58,6 +85,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="Spark" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 #### 📊 Data Visualization & Analysis
@@ -73,7 +102,6 @@
   <img src="https://img.shields.io/badge/Pine_Script-005571?style=for-the-badge&logo=tradingview&logoColor=white" alt="Pine Script" />
   <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
 </p>
-
 
 #### 🎨 Frontend Development
 <p align="left">
@@ -99,12 +127,14 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 #### ☁️ Cloud & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -129,10 +159,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-
 </p>
-
-
 
 ### 📈 GitHub Analytics
 
@@ -173,7 +200,6 @@
 <!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
 
 ---
-
 
 <div align="center">
   
