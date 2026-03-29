@@ -7,42 +7,41 @@
 </p>
 
 <div align="center">
-  
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-espinosa-giraldo/)
   [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/taxevader007/)
-  
+
 </div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 <p align="center">
-  <em>✨ Software Systems Engineer | 🤖 AI Engineer | 📊 Data Science | 🖥️ Fullstack Engineer | ☁️ Cloud Specialist</em>
+  <em>Software Systems Engineer | AI Engineer | Data Science | Fullstack Engineer | Cloud Specialist</em>
 </p>
 
 <br>
 
 <p align="center">
   <em>Passionate about leveraging data science and machine learning to solve complex problems.<br>
-  My expertise lies in transforming raw data into meaningful insights, developing predictive models,<br> 
+  My expertise lies in transforming raw data into meaningful insights, developing predictive models,<br>
   applying advanced mathematical techniques to drive innovative solutions,<br>
   and developing full-stack applications to deploy scalable AI solutions.</em>
 </p>
 
 <br>
 
-- 🔭 Currently developing **AI-powered trading systems**
-- 🌱 Mastering **Deep Learning & Neural Networks**
-- 👯 Looking to collaborate on **open-source ML projects**
-- 💡 Passionate about **quantitative finance & algorithmic trading**
-- 🎯 2025 Goal: Contribute to 10+ open source projects
+- Currently developing **AI-powered trading systems**
+- Mastering **Deep Learning & Neural Networks**
+- Looking to collaborate on **open-source ML projects**
+- Passionate about **quantitative finance & algorithmic trading**
 
 ---
 
-### 🏆 Recent Certifications & Achievements
+### Recent Certifications & Achievements
 
-#### 🤖 AI & Machine Learning
+#### AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
@@ -51,7 +50,7 @@
   <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stabilityai&logoColor=white" alt="Stable Diffusion" />
 </p>
 
-#### ☁️ Cloud & Data Engineering
+#### Cloud & Data Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -60,7 +59,7 @@
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
 </p>
 
-#### 🛠️ Professional Development
+#### Professional Development
 <p align="left">
   <img src="https://img.shields.io/badge/Scrum_Professional-009639?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum Professional" />
   <img src="https://img.shields.io/badge/Linux_Professional-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Professional" />
@@ -68,9 +67,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 🔬 Data Science & ML
+#### Data Science & ML
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
@@ -81,7 +80,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-#### 🚀 Data Engineering & Big Data
+#### Data Engineering & Big Data
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="Spark" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
@@ -89,13 +88,13 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-#### 📊 Data Visualization & Analysis
+#### Data Visualization & Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### 💹 Trading & Automation
+#### Trading & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/MQL5-0097A7?style=for-the-badge&logoColor=white" alt="MQL5" />
   <img src="https://img.shields.io/badge/MetaTrader_5-1E90FF?style=for-the-badge&logoColor=white" alt="MetaTrader 5" />
@@ -103,7 +102,7 @@
   <img src="https://img.shields.io/badge/TradingView-2962FF?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
 </p>
 
-#### 🎨 Frontend Development
+#### Frontend Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -112,7 +111,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-#### ⚙️ Backend Development
+#### Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -123,16 +122,22 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-#### 🗄️ Database Systems
+#### Database Systems
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
 </p>
 
-#### ☁️ Cloud & Deployment
+#### Cloud & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" />
+  <img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudFront" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
@@ -140,7 +145,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
-#### 🤖 Scripting & Shell
+#### Scripting & Shell
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -148,7 +153,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-#### 🧰 Development Tools
+#### Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -161,10 +166,10 @@
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
 </p>
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=espinosacodes&label=Profile%20Views&color=5cd6d6&style=flat-square" alt="Profile views"/> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=espinosacodes&label=Profile%20Views&color=5cd6d6&style=flat-square" alt="Profile views"/>
 </p>
 
 <p align="center">
@@ -189,7 +194,7 @@
 
 ---
 
-### 💡 Recent Projects
+### Recent Projects
 
 | Project | Description | Tech Stack | Deployed App |
 |---------|-------------|------------|--------------|
@@ -199,14 +204,10 @@
 | [Spark Movies KNN Cluster](https://github.com/espinosacodes/spark-movies-knn-cluster) | KNN clustering on MovieLens dataset using a Spark cluster on GCP, provisioned with Terraform | Terraform, Spark, Scala, GCP | – |
 | [Beyond Light](https://github.com/espinosacodes/beyond-light) | Interactive 3D scrollable journey through the universe — stars, galaxies, relativity, wormholes, black holes | React, Three.js, Vite, GitHub Actions | [Live Demo](https://espinosacodes.github.io/beyond-light/) |
 
-<!--| [Neural Network Framework](https://github.com/) | Custom deep learning implementation | C++, CUDA, Python |-->
-
 ---
 
 <div align="center">
-  
-  ![Coding GIF](https://media.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif)
-  
-  **"Don't hurry your code. Make sure it works well and is well designed"** - Linus Torvalds 
-  
+
+  **"Don't hurry your code. Make sure it works well and is well designed."** — Linus Torvalds
+
 </div>
