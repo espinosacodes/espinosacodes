@@ -204,6 +204,24 @@
 | [Spark Movies KNN Cluster](https://github.com/espinosacodes/spark-movies-knn-cluster) | KNN clustering on MovieLens dataset using a Spark cluster on GCP, provisioned with Terraform | Terraform, Spark, Scala, GCP | – |
 | [Beyond Light](https://github.com/espinosacodes/beyond-light) | Interactive 3D scrollable journey through the universe — stars, galaxies, relativity, wormholes, black holes | React, Three.js, Vite, GitHub Actions | [Live Demo](https://espinosacodes.github.io/beyond-light/) |
 
+<!-- DAILY-UPDATE:START -->
+### Daily Dose of Code 🌒
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
+
+</div>
+
+| | |
+|---|---|
+| **Year Progress** | `▓▓▓▓▓░░░░░░░░░░░░░░░` 25.8% of 2026 |
+| **Today's Tip** | Write tests before you think you need them. Future you will thank you. |
+| **Language to Explore** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
+| **Last Updated** | April 05, 2026 00:11 UTC |
+<!-- DAILY-UPDATE:END -->
+
 ---
 
 <div align="center">

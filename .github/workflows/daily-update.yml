@@ -1,0 +1,33 @@
+name: Daily README Update
+
+on:
+  schedule:
+    # Runs every day at 6:00 AM UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update README
+        run: python scripts/update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "espinosacodes"
+          git config user.email "santiagoespinosagiraldo1@gmail.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Daily README update - $(date +'%B %d, %Y')"
+          git push
