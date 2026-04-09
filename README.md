@@ -209,17 +209,17 @@
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓░░░░░░░░░░░░░░░` 26.7% of 2026 |
-| **Today's Tip** | Profile before you optimize. Don't guess where the bottleneck is. |
-| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
-| **Last Updated** | April 08, 2026 07:13 UTC |
+| **Year Progress** | `▓▓▓▓▓░░░░░░░░░░░░░░░` 26.9% of 2026 |
+| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
+| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Last Updated** | April 09, 2026 07:17 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
