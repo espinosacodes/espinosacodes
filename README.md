@@ -209,17 +209,17 @@
 
 <div align="center">
 
-> *"Programming isn't about what you know; it's about what you can figure out."*
-> — **Chris Pine**
+> *"The only way to learn a new programming language is by writing programs in it."*
+> — **Dennis Ritchie**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓░░░░░░░░░░░░░░░` 27.2% of 2026 |
-| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
-| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
-| **Last Updated** | April 10, 2026 07:23 UTC |
+| **Year Progress** | `▓▓▓▓▓░░░░░░░░░░░░░░░` 27.5% of 2026 |
+| **Today's Tip** | Learn SQL well - it's one of the most transferable skills in tech. |
+| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
+| **Last Updated** | April 11, 2026 06:57 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
