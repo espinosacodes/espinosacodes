@@ -209,17 +209,17 @@
 
 <div align="center">
 
-> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
-> — **Antoine de Saint-Exupery**
+> *"Testing leads to failure, and failure leads to understanding."*
+> — **Burt Rutan**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓░░░░░░░░░░░░░░` 29.1% of 2026 |
-| **Today's Tip** | Learn to read documentation before Stack Overflow. It's a superpower. |
-| **Language to Explore** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **Last Updated** | April 17, 2026 07:27 UTC |
+| **Year Progress** | `▓▓▓▓▓▓░░░░░░░░░░░░░░` 29.4% of 2026 |
+| **Today's Tip** | Automate anything you do more than twice. |
+| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Last Updated** | April 18, 2026 07:02 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
