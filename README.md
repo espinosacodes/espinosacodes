@@ -43,7 +43,6 @@
 | [Spark Movies KNN Cluster](https://github.com/espinosacodes/spark-movies-knn-cluster) | KNN clustering on MovieLens dataset using a Spark cluster on GCP, provisioned with Terraform | Terraform, Spark, Scala, GCP | – |
 | [TalkTown](https://github.com/espinosacodes/TalkTown) | AI-powered language learning RPG built at Vercel's Zero to Agent hackathon — explore a town, chat with AI NPCs, practice languages | Next.js, React, Vercel AI SDK, TypeScript, DynamoDB, Tailwind | [Live Demo](https://talk-town-five.vercel.app) |
 | [Beyond Light](https://github.com/espinosacodes/beyond-light) | Interactive 3D scrollable journey through the universe — stars, galaxies, relativity, wormholes, black holes | React, Three.js, Vite, GitHub Actions | [Live Demo](https://espinosacodes.github.io/beyond-light/) |
-| [TalkTown](https://github.com/espinosacodes/TalkTown) | AI-powered language learning RPG built at Vercel's Zero to Agent: Cali — practice languages through immersive NPC dialogue | Next.js, Vercel AI SDK, Auth0, DynamoDB, TypeScript | – |
 
 <!-- DAILY-UPDATE:START -->
 ### Daily Dose of Code 🌗
