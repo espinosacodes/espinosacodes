@@ -45,21 +45,21 @@
 | [Beyond Light](https://github.com/espinosacodes/beyond-light) | Interactive 3D scrollable journey through the universe — stars, galaxies, relativity, wormholes, black holes | React, Three.js, Vite, GitHub Actions | [Live Demo](https://espinosacodes.github.io/beyond-light/) |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌗
+### Daily Dose of Code 🌘
 
 <div align="center">
 
-> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."*
-> — **John Woods**
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> — **Dan Salomon**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓░░░░░░░░░░░░░░` 31.6% of 2026 |
-| **Today's Tip** | Use semantic versioning for your libraries and APIs. |
-| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| **Last Updated** | April 26, 2026 07:23 UTC |
+| **Year Progress** | `▓▓▓▓▓▓░░░░░░░░░░░░░░` 31.9% of 2026 |
+| **Today's Tip** | Write READMEs like someone else will maintain your code. Because they will. |
+| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
+| **Last Updated** | April 27, 2026 08:17 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
