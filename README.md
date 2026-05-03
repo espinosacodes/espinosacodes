@@ -49,17 +49,17 @@
 
 <div align="center">
 
-> *"The most important property of a program is whether it accomplishes the intention of its user."*
-> — **C.A.R. Hoare**
+> *"Deleted code is debugged code."*
+> — **Jeff Sickel**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 33.2% of 2026 |
-| **Today's Tip** | Embrace the terminal. GUIs come and go, the CLI is forever. |
-| **Language to Explore** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
-| **Last Updated** | May 02, 2026 07:27 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 33.5% of 2026 |
+| **Today's Tip** | Refactor continuously. Technical debt grows with compound interest. |
+| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Last Updated** | May 03, 2026 07:57 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
