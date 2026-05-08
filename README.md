@@ -45,21 +45,21 @@
 | [Beyond Light](https://github.com/espinosacodes/beyond-light) | Interactive 3D scrollable journey through the universe — stars, galaxies, relativity, wormholes, black holes | React, Three.js, Vite, GitHub Actions | [Live Demo](https://espinosacodes.github.io/beyond-light/) |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
-> — **Alan Kay**
+> *"Simplicity is the soul of efficiency."*
+> — **Austin Freeman**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 34.6% of 2026 |
-| **Today's Tip** | Read the error message. Then read it again. The answer is usually there. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | May 07, 2026 08:28 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 34.9% of 2026 |
+| **Today's Tip** | Use `docker compose` to keep your dev environments reproducible. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | May 08, 2026 07:25 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
