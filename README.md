@@ -48,17 +48,17 @@
 
 <div align="center">
 
-> *"Make it work, make it right, make it fast."*
-> — **Kent Beck**
+> *"Programming isn't about what you know; it's about what you can figure out."*
+> — **Chris Pine**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 35.4% of 2026 |
-| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
-| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
-| **Last Updated** | May 10, 2026 08:03 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 35.7% of 2026 |
+| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
+| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
+| **Last Updated** | May 11, 2026 09:33 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
