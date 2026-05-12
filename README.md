@@ -44,21 +44,21 @@
 | [Beyond Light](https://github.com/espinosacodes/beyond-light) | Interactive 3D scrollable journey through the universe — stars, galaxies, relativity, wormholes, black holes | React, Three.js, Vite, GitHub Actions | [Live Demo](https://espinosacodes.github.io/beyond-light/) |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌓
+### Daily Dose of Code 🌔
 
 <div align="center">
 
-> *"Programming isn't about what you know; it's about what you can figure out."*
-> — **Chris Pine**
+> *"The only way to learn a new programming language is by writing programs in it."*
+> — **Dennis Ritchie**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 35.7% of 2026 |
-| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
-| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| **Last Updated** | May 11, 2026 09:33 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓░░░░░░░░░░░░░` 36.0% of 2026 |
+| **Today's Tip** | Learn SQL well - it's one of the most transferable skills in tech. |
+| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
+| **Last Updated** | May 12, 2026 08:34 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
