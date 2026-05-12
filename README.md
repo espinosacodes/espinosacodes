@@ -36,8 +36,6 @@
 
 | Project | Description | Tech Stack | Deployed App |
 |---------|-------------|------------|--------------|
-| [Algorithmic Trading Agency](https://github.com/espinosacodes/deltanexusweb) | Typescript based SPA with tailwind | Typescript, Tailwind, Javascript, CSS | [Live Demo](https://deltanexus.netlify.app)|
-| [Algorithmic Trading](https://github.com/espinosacodes/mql4Scripts) | Algorithmic trading system | MQL4 | – |
 | [CipherChat](https://github.com/espinosacodes/CipherChat) | Secure communication system with RSA + AES encryption, CLI + Web app | Python, Django, HTML, CSS | [Live Demo](https://cipherchat-qzui.onrender.com) |
 | [Spark Movies KNN Cluster](https://github.com/espinosacodes/spark-movies-knn-cluster) | KNN clustering on MovieLens dataset using a Spark cluster on GCP, provisioned with Terraform | Terraform, Spark, Scala, GCP | – |
 | [TalkTown](https://github.com/espinosacodes/TalkTown) | AI-powered language learning RPG built at Vercel's Zero to Agent hackathon — explore a town, chat with AI NPCs, practice languages | Next.js, React, Vercel AI SDK, TypeScript, DynamoDB, Tailwind | [Live Demo](https://talk-town-five.vercel.app) |
