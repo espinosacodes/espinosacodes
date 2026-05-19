@@ -43,21 +43,21 @@
 | [Microservices Event](https://github.com/espinosacodes/microservices-event) | Multi-language voting microservices deployed to GKE via GitLab CI/CD with Kustomize + Kaniko and Terraform-provisioned infra | Java, Go, Node.js, Kafka, PostgreSQL, GitLab CI, Kustomize, Kaniko, Terraform, GKE | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌕
+### Daily Dose of Code 🌖
 
 <div align="center">
 
-> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
-> — **Antoine de Saint-Exupery**
+> *"Testing leads to failure, and failure leads to understanding."*
+> — **Burt Rutan**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 37.6% of 2026 |
-| **Today's Tip** | Learn to read documentation before Stack Overflow. It's a superpower. |
-| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Last Updated** | May 18, 2026 09:54 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 37.9% of 2026 |
+| **Today's Tip** | Automate anything you do more than twice. |
+| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Last Updated** | May 19, 2026 09:36 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
