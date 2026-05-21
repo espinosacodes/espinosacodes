@@ -47,17 +47,17 @@
 
 <div align="center">
 
-> *"The most disastrous thing that you can ever learn is your first programming language."*
-> — **Alan Kay**
+> *"The function of good software is to make the complex appear to be simple."*
+> — **Grady Booch**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 38.2% of 2026 |
-| **Today's Tip** | Use `pre-commit` hooks to enforce code quality automatically. |
-| **Language to Explore** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
-| **Last Updated** | May 20, 2026 09:24 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 38.5% of 2026 |
+| **Today's Tip** | Keep your dependencies updated. Security vulnerabilities compound. |
+| **Language to Explore** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Last Updated** | May 21, 2026 09:33 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
