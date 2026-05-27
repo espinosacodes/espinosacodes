@@ -43,21 +43,21 @@
 | [Microservices Event](https://github.com/espinosacodes/microservices-event) | Multi-language voting microservices deployed to GKE via GitLab CI/CD with Kustomize + Kaniko and Terraform-provisioned infra | Java, Go, Node.js, Kafka, PostgreSQL, GitLab CI, Kustomize, Kaniko, Terraform, GKE | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌗
+### Daily Dose of Code 🌘
 
 <div align="center">
 
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."*
-> — **Bill Gates**
+> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."*
+> — **John Woods**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 39.8% of 2026 |
-| **Today's Tip** | Pair programming is underrated. Two minds catch more bugs. |
-| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| **Last Updated** | May 26, 2026 09:46 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 40.1% of 2026 |
+| **Today's Tip** | Use semantic versioning for your libraries and APIs. |
+| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
+| **Last Updated** | May 27, 2026 09:38 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
