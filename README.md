@@ -43,21 +43,21 @@
 | [Microservices Event](https://github.com/espinosacodes/microservices-event) | Multi-language voting microservices deployed to GKE via GitLab CI/CD with Kustomize + Kaniko and Terraform-provisioned infra | Java, Go, Node.js, Kafka, PostgreSQL, GitLab CI, Kustomize, Kaniko, Terraform, GKE | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌑
+### Daily Dose of Code 🌒
 
 <div align="center">
 
-> *"The most important property of a program is whether it accomplishes the intention of its user."*
-> — **C.A.R. Hoare**
+> *"Deleted code is debugged code."*
+> — **Jeff Sickel**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 41.8% of 2026 |
-| **Today's Tip** | Embrace the terminal. GUIs come and go, the CLI is forever. |
-| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Last Updated** | June 02, 2026 10:15 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓░░░░░░░░░░░░` 42.0% of 2026 |
+| **Today's Tip** | Refactor continuously. Technical debt grows with compound interest. |
+| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Last Updated** | June 03, 2026 10:51 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
