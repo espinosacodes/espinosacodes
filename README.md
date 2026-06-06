@@ -47,17 +47,17 @@
 
 <div align="center">
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — **Martin Fowler**
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 42.6% of 2026 |
-| **Today's Tip** | Learn keyboard shortcuts in your IDE - it compounds over time. |
-| **Language to Explore** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Last Updated** | June 05, 2026 09:39 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 42.8% of 2026 |
+| **Today's Tip** | Write tests before you think you need them. Future you will thank you. |
+| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
+| **Last Updated** | June 06, 2026 08:29 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
