@@ -43,21 +43,21 @@
 | [Microservices Event](https://github.com/espinosacodes/microservices-event) | Multi-language voting microservices deployed to GKE via GitLab CI/CD with Kustomize + Kaniko and Terraform-provisioned infra | Java, Go, Node.js, Kafka, PostgreSQL, GitLab CI, Kustomize, Kaniko, Terraform, GKE | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
+> *"The best way to predict the future is to invent it."*
+> — **Alan Kay**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 42.8% of 2026 |
-| **Today's Tip** | Write tests before you think you need them. Future you will thank you. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | June 06, 2026 08:29 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 43.1% of 2026 |
+| **Today's Tip** | Read the error message. Then read it again. The answer is usually there. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | June 07, 2026 08:50 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
