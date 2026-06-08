@@ -47,17 +47,17 @@
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*
-> — **Alan Kay**
+> *"Simplicity is the soul of efficiency."*
+> — **Austin Freeman**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 43.1% of 2026 |
-| **Today's Tip** | Read the error message. Then read it again. The answer is usually there. |
-| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
-| **Last Updated** | June 07, 2026 08:50 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 43.4% of 2026 |
+| **Today's Tip** | Use `docker compose` to keep your dev environments reproducible. |
+| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Last Updated** | June 08, 2026 10:45 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
