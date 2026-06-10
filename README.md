@@ -47,17 +47,17 @@
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 43.7% of 2026 |
-| **Today's Tip** | Profile before you optimize. Don't guess where the bottleneck is. |
-| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
-| **Last Updated** | June 09, 2026 09:35 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 43.9% of 2026 |
+| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
+| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
+| **Last Updated** | June 10, 2026 09:51 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
