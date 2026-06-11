@@ -36,6 +36,7 @@
 
 | Project | Description | Tech Stack | Deployed App |
 |---------|-------------|------------|--------------|
+| [CircleGuard](https://gitlab.com/espinosacodes/circle-guard-final) | Privacy-first university contact-tracing & containment platform — 8-microservice SaaS with full DevOps pipeline (IaC, GitOps CD, service mesh, chaos, FinOps, observability) on multi-cloud (GCP + OCI) | Kotlin, Spring Boot, Terraform, GKE, GitLab CI/CD, Istio, Chaos Mesh, Prometheus, GCP, OCI | – |
 | [CipherChat](https://github.com/espinosacodes/CipherChat) | Secure communication system with RSA + AES encryption, CLI + Web app | Python, Django, HTML, CSS | [Live Demo](https://cipherchat-qzui.onrender.com) |
 | [Spark Movies KNN Cluster](https://github.com/espinosacodes/spark-movies-knn-cluster) | KNN clustering on MovieLens dataset using a Spark cluster on GCP, provisioned with Terraform | Terraform, Spark, Scala, GCP | – |
 | [TalkTown](https://github.com/espinosacodes/TalkTown) | AI-powered language learning RPG built at Vercel's Zero to Agent hackathon — explore a town, chat with AI NPCs, practice languages | Next.js, React, Vercel AI SDK, TypeScript, DynamoDB, Tailwind | [Live Demo](https://talk-town-five.vercel.app) |
