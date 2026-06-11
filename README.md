@@ -43,21 +43,21 @@
 | [Microservices Event](https://github.com/espinosacodes/microservices-event) | Multi-language voting microservices deployed to GKE via GitLab CI/CD with Kustomize + Kaniko and Terraform-provisioned infra | Java, Go, Node.js, Kafka, PostgreSQL, GitLab CI, Kustomize, Kaniko, Terraform, GKE | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌓
+### Daily Dose of Code 🌔
 
 <div align="center">
 
-> *"Make it work, make it right, make it fast."*
-> — **Kent Beck**
+> *"Programming isn't about what you know; it's about what you can figure out."*
+> — **Chris Pine**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 43.9% of 2026 |
-| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
-| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| **Last Updated** | June 10, 2026 09:51 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 44.2% of 2026 |
+| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
+| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
+| **Last Updated** | June 11, 2026 10:16 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
