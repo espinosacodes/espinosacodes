@@ -48,17 +48,17 @@
 
 <div align="center">
 
-> *"Programming isn't about what you know; it's about what you can figure out."*
-> — **Chris Pine**
+> *"The only way to learn a new programming language is by writing programs in it."*
+> — **Dennis Ritchie**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 44.2% of 2026 |
-| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
-| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
-| **Last Updated** | June 11, 2026 10:16 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 44.5% of 2026 |
+| **Today's Tip** | Learn SQL well - it's one of the most transferable skills in tech. |
+| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **Last Updated** | June 12, 2026 10:04 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
