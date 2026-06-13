@@ -48,17 +48,17 @@
 
 <div align="center">
 
-> *"The only way to learn a new programming language is by writing programs in it."*
-> — **Dennis Ritchie**
+> *"Experience is the name everyone gives to their mistakes."*
+> — **Oscar Wilde**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 44.5% of 2026 |
-| **Today's Tip** | Learn SQL well - it's one of the most transferable skills in tech. |
-| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
-| **Last Updated** | June 12, 2026 10:04 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓░░░░░░░░░░░` 44.8% of 2026 |
+| **Today's Tip** | Contribute to open source. Start with documentation fixes. |
+| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
+| **Last Updated** | June 13, 2026 08:52 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
