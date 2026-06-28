@@ -49,17 +49,17 @@
 
 <div align="center">
 
-> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."*
-> — **John Woods**
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> — **Dan Salomon**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 48.6% of 2026 |
-| **Today's Tip** | Use semantic versioning for your libraries and APIs. |
-| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
-| **Last Updated** | June 27, 2026 08:31 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 48.9% of 2026 |
+| **Today's Tip** | Write READMEs like someone else will maintain your code. Because they will. |
+| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
+| **Last Updated** | June 28, 2026 08:46 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
