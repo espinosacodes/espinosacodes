@@ -45,21 +45,21 @@
 | [Centinela](https://github.com/espinosacodes/hackaton-reto4) | Proactive Colombian labor-law compliance & disciplinary-process platform built for Legal Hack Icesi 2026 — AI extracts contracts & drafts documents, deterministic code computes liquidations and flags risks (incl. Ley 2466/2025 algorithmic-subordination reclassification), the lawyer decides | Next.js 16, TypeScript, Tailwind v4, Anthropic Claude API, AWS S3 | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌘
+### Daily Dose of Code 🌑
 
 <div align="center">
 
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
-> — **Dan Salomon**
+> *"Walking on water and developing software from a specification are easy if both are frozen."*
+> — **Edward V Berard**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 48.9% of 2026 |
-| **Today's Tip** | Write READMEs like someone else will maintain your code. Because they will. |
-| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
-| **Last Updated** | June 28, 2026 08:46 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 49.2% of 2026 |
+| **Today's Tip** | Learn vim keybindings. They work everywhere. |
+| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Last Updated** | June 29, 2026 10:49 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
