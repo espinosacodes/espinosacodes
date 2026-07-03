@@ -45,21 +45,21 @@
 | [Centinela](https://github.com/espinosacodes/hackaton-reto4) | Proactive Colombian labor-law compliance & disciplinary-process platform built for Legal Hack Icesi 2026 — AI extracts contracts & drafts documents, deterministic code computes liquidations and flags risks (incl. Ley 2466/2025 algorithmic-subordination reclassification), the lawyer decides | Next.js 16, TypeScript, Tailwind v4, Anthropic Claude API, AWS S3 | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌑
+### Daily Dose of Code 🌒
 
 <div align="center">
 
-> *"A language that doesn't affect the way you think about programming is not worth knowing."*
-> — **Alan Perlis**
+> *"The most important property of a program is whether it accomplishes the intention of its user."*
+> — **C.A.R. Hoare**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 50.0% of 2026 |
-| **Today's Tip** | Use branch protection rules. Your `main` branch is sacred. |
-| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Last Updated** | July 02, 2026 08:50 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 50.2% of 2026 |
+| **Today's Tip** | Embrace the terminal. GUIs come and go, the CLI is forever. |
+| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Last Updated** | July 03, 2026 08:56 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
