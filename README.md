@@ -45,21 +45,21 @@
 | [Centinela](https://github.com/espinosacodes/hackaton-reto4) | Proactive Colombian labor-law compliance & disciplinary-process platform built for Legal Hack Icesi 2026 — AI extracts contracts & drafts documents, deterministic code computes liquidations and flags risks (incl. Ley 2466/2025 algorithmic-subordination reclassification), the lawyer decides | Next.js 16, TypeScript, Tailwind v4, Anthropic Claude API, AWS S3 | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — **Martin Fowler**
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 51.1% of 2026 |
-| **Today's Tip** | Learn keyboard shortcuts in your IDE - it compounds over time. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | July 06, 2026 10:10 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 51.3% of 2026 |
+| **Today's Tip** | Write tests before you think you need them. Future you will thank you. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | July 07, 2026 09:34 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
