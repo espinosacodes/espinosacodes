@@ -49,17 +49,17 @@
 
 <div align="center">
 
-> *"Make it work, make it right, make it fast."*
-> — **Kent Beck**
+> *"Programming isn't about what you know; it's about what you can figure out."*
+> — **Chris Pine**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░` 52.4% of 2026 |
-| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
-| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
-| **Last Updated** | July 11, 2026 07:48 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` 52.7% of 2026 |
+| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
+| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **Last Updated** | July 12, 2026 08:10 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
