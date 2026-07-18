@@ -45,21 +45,21 @@
 | [Centinela](https://github.com/espinosacodes/hackaton-reto4) | Proactive Colombian labor-law compliance & disciplinary-process platform built for Legal Hack Icesi 2026 — AI extracts contracts & drafts documents, deterministic code computes liquidations and flags risks (incl. Ley 2466/2025 algorithmic-subordination reclassification), the lawyer decides | Next.js 16, TypeScript, Tailwind v4, Anthropic Claude API, AWS S3 | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌕
+### Daily Dose of Code 🌖
 
 <div align="center">
 
-> *"Knowledge is power."*
-> — **Francis Bacon**
+> *"It's not a bug; it's an undocumented feature."*
+> — **Anonymous**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` 54.1% of 2026 |
-| **Today's Tip** | Write meaningful commit messages. Your future self is a stranger. |
-| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Last Updated** | July 17, 2026 08:02 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` 54.3% of 2026 |
+| **Today's Tip** | Use type hints in Python. They catch bugs before runtime. |
+| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Last Updated** | July 18, 2026 07:42 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
