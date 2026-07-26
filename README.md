@@ -45,21 +45,21 @@
 | [Centinela](https://github.com/espinosacodes/hackaton-reto4) | Proactive Colombian labor-law compliance & disciplinary-process platform built for Legal Hack Icesi 2026 — AI extracts contracts & drafts documents, deterministic code computes liquidations and flags risks (incl. Ley 2466/2025 algorithmic-subordination reclassification), the lawyer decides | Next.js 16, TypeScript, Tailwind v4, Anthropic Claude API, AWS S3 | – |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌗
+### Daily Dose of Code 🌘
 
 <div align="center">
 
-> *"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."*
-> — **Elbert Hubbard**
+> *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
+> — **Edsger Dijkstra**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` 56.3% of 2026 |
-| **Today's Tip** | Use feature flags to deploy code without releasing features. |
-| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
-| **Last Updated** | July 25, 2026 08:00 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` 56.5% of 2026 |
+| **Today's Tip** | Master your debugger. `print()` debugging has its limits. |
+| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
+| **Last Updated** | July 26, 2026 08:20 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
