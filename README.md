@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
-> — **Dan Salomon**
+> *"Walking on water and developing software from a specification are easy if both are frozen."*
+> — **Edward V Berard**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░` 57.4% of 2026 |
-| **Today's Tip** | Write READMEs like someone else will maintain your code. Because they will. |
-| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Last Updated** | July 29, 2026 08:32 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 57.6% of 2026 |
+| **Today's Tip** | Learn vim keybindings. They work everywhere. |
+| **Language to Explore** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Last Updated** | July 30, 2026 08:18 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
