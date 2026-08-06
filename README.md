@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"Talk is cheap. Show me the code."*
-> — **Linus Torvalds**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> — **Martin Fowler**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 59.3% of 2026 |
-| **Today's Tip** | Use `git stash` to save uncommitted changes before switching branches. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | August 05, 2026 08:28 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 59.5% of 2026 |
+| **Today's Tip** | Learn keyboard shortcuts in your IDE - it compounds over time. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | August 06, 2026 08:28 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
