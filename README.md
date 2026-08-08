@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> — **John Johnson**
+> *"The best way to predict the future is to invent it."*
+> — **Alan Kay**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 59.8% of 2026 |
-| **Today's Tip** | Write tests before you think you need them. Future you will thank you. |
-| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
-| **Last Updated** | August 07, 2026 07:07 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 60.1% of 2026 |
+| **Today's Tip** | Read the error message. Then read it again. The answer is usually there. |
+| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
+| **Last Updated** | August 08, 2026 06:42 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
