@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌔
+### Daily Dose of Code 🌕
 
 <div align="center">
 
-> *"Programming isn't about what you know; it's about what you can figure out."*
-> — **Chris Pine**
+> *"The only way to learn a new programming language is by writing programs in it."*
+> — **Dennis Ritchie**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 61.2% of 2026 |
-| **Today's Tip** | Use `.env` files and never commit secrets to version control. |
-| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
-| **Last Updated** | August 12, 2026 07:17 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░` 61.5% of 2026 |
+| **Today's Tip** | Learn SQL well - it's one of the most transferable skills in tech. |
+| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Last Updated** | August 13, 2026 07:19 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
