@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"It's not a bug; it's an undocumented feature."*
-> — **Anonymous**
+> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
+> — **Antoine de Saint-Exupery**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 62.8% of 2026 |
-| **Today's Tip** | Use type hints in Python. They catch bugs before runtime. |
-| **Language to Explore** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
-| **Last Updated** | August 18, 2026 06:35 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 63.1% of 2026 |
+| **Today's Tip** | Learn to read documentation before Stack Overflow. It's a superpower. |
+| **Language to Explore** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Last Updated** | August 19, 2026 06:35 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
