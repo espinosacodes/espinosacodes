@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"The function of good software is to make the complex appear to be simple."*
-> — **Grady Booch**
+> *"Before software can be reusable it first has to be usable."*
+> — **Ralph Johnson**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 63.9% of 2026 |
-| **Today's Tip** | Keep your dependencies updated. Security vulnerabilities compound. |
-| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
-| **Last Updated** | August 22, 2026 06:32 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 64.2% of 2026 |
+| **Today's Tip** | Learn one new shortcut, tool, or concept every week. |
+| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
+| **Last Updated** | August 23, 2026 06:33 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
