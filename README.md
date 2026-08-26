@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."*
-> — **Elbert Hubbard**
+> *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
+> — **Edsger Dijkstra**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 64.7% of 2026 |
-| **Today's Tip** | Use feature flags to deploy code without releasing features. |
-| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
-| **Last Updated** | August 25, 2026 06:38 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 65.0% of 2026 |
+| **Today's Tip** | Master your debugger. `print()` debugging has its limits. |
+| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **Last Updated** | August 26, 2026 06:40 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
