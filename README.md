@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."*
-> — **John Woods**
+> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
+> — **Dan Salomon**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 65.7% of 2026 |
-| **Today's Tip** | Use semantic versioning for your libraries and APIs. |
-| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Last Updated** | August 28, 2026 18:08 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 65.9% of 2026 |
+| **Today's Tip** | Write READMEs like someone else will maintain your code. Because they will. |
+| **Language to Explore** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Last Updated** | August 29, 2026 12:12 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
