@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"A language that doesn't affect the way you think about programming is not worth knowing."*
-> — **Alan Perlis**
+> *"The most important property of a program is whether it accomplishes the intention of its user."*
+> — **C.A.R. Hoare**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 67.0% of 2026 |
-| **Today's Tip** | Use branch protection rules. Your `main` branch is sacred. |
-| **Language to Explore** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
-| **Last Updated** | September 02, 2026 10:30 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░` 67.2% of 2026 |
+| **Today's Tip** | Embrace the terminal. GUIs come and go, the CLI is forever. |
+| **Language to Explore** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Last Updated** | September 03, 2026 10:36 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
