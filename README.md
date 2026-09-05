@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"Deleted code is debugged code."*
-> — **Jeff Sickel**
+> *"Talk is cheap. Show me the code."*
+> — **Linus Torvalds**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 67.5% of 2026 |
-| **Today's Tip** | Refactor continuously. Technical debt grows with compound interest. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | September 04, 2026 10:28 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 67.8% of 2026 |
+| **Today's Tip** | Use `git stash` to save uncommitted changes before switching branches. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | September 05, 2026 09:53 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
