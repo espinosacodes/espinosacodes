@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Simplicity is the soul of efficiency."*
-> — **Austin Freeman**
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — **Cory House**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 68.9% of 2026 |
-| **Today's Tip** | Use `docker compose` to keep your dev environments reproducible. |
-| **Language to Explore** | ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white) |
-| **Last Updated** | September 09, 2026 10:41 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 69.2% of 2026 |
+| **Today's Tip** | Profile before you optimize. Don't guess where the bottleneck is. |
+| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
+| **Last Updated** | September 10, 2026 10:30 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
