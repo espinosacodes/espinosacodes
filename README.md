@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌕
+### Daily Dose of Code 🌖
 
 <div align="center">
 
-> *"In order to be irreplaceable, one must always be different."*
-> — **Coco Chanel**
+> *"Java is to JavaScript what car is to carpet."*
+> — **Chris Heilmann**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 70.5% of 2026 |
-| **Today's Tip** | Use `tmux` or `screen` for persistent terminal sessions on remote servers. |
-| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Last Updated** | September 15, 2026 10:58 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 70.8% of 2026 |
+| **Today's Tip** | Master `grep`, `awk`, and `sed` - they'll save you hours. |
+| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Last Updated** | September 16, 2026 10:46 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
