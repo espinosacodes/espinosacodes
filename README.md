@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Testing leads to failure, and failure leads to understanding."*
-> — **Burt Rutan**
+> *"The most disastrous thing that you can ever learn is your first programming language."*
+> — **Alan Kay**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 71.9% of 2026 |
-| **Today's Tip** | Automate anything you do more than twice. |
-| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
-| **Last Updated** | September 20, 2026 10:32 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░` 72.2% of 2026 |
+| **Today's Tip** | Use `pre-commit` hooks to enforce code quality automatically. |
+| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Last Updated** | September 21, 2026 11:51 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
