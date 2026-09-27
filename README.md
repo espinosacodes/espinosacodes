@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌘
+### Daily Dose of Code 🌑
 
 <div align="center">
 
-> *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
-> — **Edsger Dijkstra**
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."*
+> — **Bill Gates**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░` 73.5% of 2026 |
-| **Today's Tip** | Master your debugger. `print()` debugging has its limits. |
-| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
-| **Last Updated** | September 26, 2026 10:44 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░` 73.8% of 2026 |
+| **Today's Tip** | Pair programming is underrated. Two minds catch more bugs. |
+| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Last Updated** | September 27, 2026 11:17 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
