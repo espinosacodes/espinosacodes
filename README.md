@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌔
+### Daily Dose of Code 🌕
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 77.7% of 2026 |
-| **Today's Tip** | Profile before you optimize. Don't guess where the bottleneck is. |
-| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
-| **Last Updated** | October 11, 2026 12:01 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 78.0% of 2026 |
+| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
+| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Last Updated** | October 12, 2026 14:17 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
