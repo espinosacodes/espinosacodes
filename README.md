@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"In order to be irreplaceable, one must always be different."*
-> — **Coco Chanel**
+> *"Java is to JavaScript what car is to carpet."*
+> — **Chris Heilmann**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 79.0% of 2026 |
-| **Today's Tip** | Use `tmux` or `screen` for persistent terminal sessions on remote servers. |
-| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
-| **Last Updated** | October 16, 2026 10:35 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 79.3% of 2026 |
+| **Today's Tip** | Master `grep`, `awk`, and `sed` - they'll save you hours. |
+| **Language to Explore** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white) |
+| **Last Updated** | October 17, 2026 10:04 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
