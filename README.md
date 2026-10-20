@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌖
+### Daily Dose of Code 🌗
 
 <div align="center">
 
-> *"It's not a bug; it's an undocumented feature."*
-> — **Anonymous**
+> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
+> — **Antoine de Saint-Exupery**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 79.9% of 2026 |
-| **Today's Tip** | Use type hints in Python. They catch bugs before runtime. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | October 19, 2026 11:58 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 80.1% of 2026 |
+| **Today's Tip** | Learn to read documentation before Stack Overflow. It's a superpower. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | October 20, 2026 10:51 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
