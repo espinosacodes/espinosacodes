@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
-> — **Antoine de Saint-Exupery**
+> *"Testing leads to failure, and failure leads to understanding."*
+> — **Burt Rutan**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 80.1% of 2026 |
-| **Today's Tip** | Learn to read documentation before Stack Overflow. It's a superpower. |
-| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
-| **Last Updated** | October 20, 2026 10:51 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 80.4% of 2026 |
+| **Today's Tip** | Automate anything you do more than twice. |
+| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Last Updated** | October 21, 2026 11:04 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
