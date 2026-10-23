@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"The most disastrous thing that you can ever learn is your first programming language."*
-> — **Alan Kay**
+> *"The function of good software is to make the complex appear to be simple."*
+> — **Grady Booch**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 80.7% of 2026 |
-| **Today's Tip** | Use `pre-commit` hooks to enforce code quality automatically. |
-| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
-| **Last Updated** | October 22, 2026 11:03 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 80.9% of 2026 |
+| **Today's Tip** | Keep your dependencies updated. Security vulnerabilities compound. |
+| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
+| **Last Updated** | October 23, 2026 10:56 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
