@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌘
+### Daily Dose of Code 🌑
 
 <div align="center">
 
-> *"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man."*
-> — **Elbert Hubbard**
+> *"If debugging is the process of removing software bugs, then programming must be the process of putting them in."*
+> — **Edsger Dijkstra**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 81.8% of 2026 |
-| **Today's Tip** | Use feature flags to deploy code without releasing features. |
-| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
-| **Last Updated** | October 26, 2026 12:10 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 82.0% of 2026 |
+| **Today's Tip** | Master your debugger. `print()` debugging has its limits. |
+| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Last Updated** | October 27, 2026 11:31 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
