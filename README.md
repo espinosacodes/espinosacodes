@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight."*
-> — **Bill Gates**
+> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."*
+> — **John Woods**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░` 82.3% of 2026 |
-| **Today's Tip** | Pair programming is underrated. Two minds catch more bugs. |
-| **Language to Explore** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Last Updated** | October 28, 2026 12:00 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 82.6% of 2026 |
+| **Today's Tip** | Use semantic versioning for your libraries and APIs. |
+| **Language to Explore** | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| **Last Updated** | October 29, 2026 12:12 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
