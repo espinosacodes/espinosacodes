@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌑
+### Daily Dose of Code 🌒
 
 <div align="center">
 
-> *"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code."*
-> — **Dan Salomon**
+> *"Walking on water and developing software from a specification are easy if both are frozen."*
+> — **Edward V Berard**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 82.9% of 2026 |
-| **Today's Tip** | Write READMEs like someone else will maintain your code. Because they will. |
-| **Language to Explore** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| **Last Updated** | October 30, 2026 12:02 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 83.1% of 2026 |
+| **Today's Tip** | Learn vim keybindings. They work everywhere. |
+| **Language to Explore** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
+| **Last Updated** | October 31, 2026 11:37 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
