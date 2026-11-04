@@ -46,21 +46,21 @@
 | [Cuadre](https://github.com/espinosacodes/hackaton-30x-colsubsidio) | Paperless physical-inventory capture for Colsubsidio's hotels, built for Hackathon Colsubsidio × 30X 2026 — offline-first blind counting on tablets, server-side outlier detection against live Oracle on-hand (never revealed to the counter), an AI copilot that explains why a quantity looks odd, and adjustments posted back into a real Oracle Autonomous Database | React 18, TypeScript, Vite, Tailwind v4, AWS Lambda, API Gateway, DynamoDB, Cognito, S3 + CloudFront, Terraform, Oracle ADB + ORDS, Gemini API | Deployment torn down |
 
 <!-- DAILY-UPDATE:START -->
-### Daily Dose of Code 🌒
+### Daily Dose of Code 🌓
 
 <div align="center">
 
-> *"A language that doesn't affect the way you think about programming is not worth knowing."*
-> — **Alan Perlis**
+> *"The most important property of a program is whether it accomplishes the intention of its user."*
+> — **C.A.R. Hoare**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.0% of 2026 |
-| **Today's Tip** | Use branch protection rules. Your `main` branch is sacred. |
-| **Language to Explore** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
-| **Last Updated** | November 03, 2026 13:31 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.3% of 2026 |
+| **Today's Tip** | Embrace the terminal. GUIs come and go, the CLI is forever. |
+| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| **Last Updated** | November 04, 2026 13:42 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
