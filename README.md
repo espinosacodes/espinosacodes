@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Deleted code is debugged code."*
-> — **Jeff Sickel**
+> *"Talk is cheap. Show me the code."*
+> — **Linus Torvalds**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.5% of 2026 |
-| **Today's Tip** | Refactor continuously. Technical debt grows with compound interest. |
-| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
-| **Last Updated** | November 05, 2026 13:54 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.8% of 2026 |
+| **Today's Tip** | Use `git stash` to save uncommitted changes before switching branches. |
+| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
+| **Last Updated** | November 06, 2026 13:40 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
