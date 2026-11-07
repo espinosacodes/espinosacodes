@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Talk is cheap. Show me the code."*
-> — **Linus Torvalds**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> — **Martin Fowler**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 84.8% of 2026 |
-| **Today's Tip** | Use `git stash` to save uncommitted changes before switching branches. |
-| **Language to Explore** | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white) |
-| **Last Updated** | November 06, 2026 13:40 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 85.1% of 2026 |
+| **Today's Tip** | Learn keyboard shortcuts in your IDE - it compounds over time. |
+| **Language to Explore** | ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) |
+| **Last Updated** | November 07, 2026 12:21 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
