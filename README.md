@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — **Cory House**
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 86.2% of 2026 |
-| **Today's Tip** | Profile before you optimize. Don't guess where the bottleneck is. |
-| **Language to Explore** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Last Updated** | November 11, 2026 13:28 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░` 86.5% of 2026 |
+| **Today's Tip** | Keep functions small and focused. If it needs a comment, it might need a refactor. |
+| **Language to Explore** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Last Updated** | November 12, 2026 14:32 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
