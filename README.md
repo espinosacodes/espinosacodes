@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"It's not a bug; it's an undocumented feature."*
-> — **Anonymous**
+> *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
+> — **Antoine de Saint-Exupery**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 88.4% of 2026 |
-| **Today's Tip** | Use type hints in Python. They catch bugs before runtime. |
-| **Language to Explore** | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
-| **Last Updated** | November 19, 2026 15:09 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 88.7% of 2026 |
+| **Today's Tip** | Learn to read documentation before Stack Overflow. It's a superpower. |
+| **Language to Explore** | ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white) |
+| **Last Updated** | November 20, 2026 14:49 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
