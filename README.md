@@ -50,17 +50,17 @@
 
 <div align="center">
 
-> *"Before software can be reusable it first has to be usable."*
-> — **Ralph Johnson**
+> *"The best error message is the one that never shows up."*
+> — **Thomas Fuchs**
 
 </div>
 
 | | |
 |---|---|
-| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 89.8% of 2026 |
-| **Today's Tip** | Learn one new shortcut, tool, or concept every week. |
-| **Language to Explore** | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) |
-| **Last Updated** | November 24, 2026 16:54 UTC |
+| **Year Progress** | `▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░` 90.1% of 2026 |
+| **Today's Tip** | Take breaks. Your subconscious solves problems while you rest. |
+| **Language to Explore** | ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white) |
+| **Last Updated** | November 25, 2026 16:43 UTC |
 <!-- DAILY-UPDATE:END -->
 
 ---
